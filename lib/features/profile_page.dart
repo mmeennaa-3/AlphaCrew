@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../../core/auth_service.dart';
+import '../core/auth_service.dart';
 import 'package:tourguide/features/profile/edit_profile.dart';
 import 'package:tourguide/features/notifications_page.dart';
 import 'package:tourguide/features/log_in_page.dart';
